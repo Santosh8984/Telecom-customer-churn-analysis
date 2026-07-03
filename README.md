@@ -1,3 +1,7 @@
+<img width="1672" height="820" alt="dashhboardimage" src="https://github.com/user-attachments/assets/469ad7f7-2564-4605-9339-358d657d1362" />
+<img width="1325" height="741" alt="Home image" src="https://github.com/user-attachments/assets/bee0af27-c40e-4454-8cbf-9fb768dc1811" />
+
+
 # Telecom-customer-churn-analysis
 📊 Interactive Power BI dashboard analyzing telecom customer churn through KPI tracking, customer segmentation, revenue impact analysis, and actionable business insights.
 
